@@ -1,4 +1,4 @@
-<!--
+<!--do not use abbreviations that are ambiguous or unfamiliar
 AUTHORS:
 Prefer only GitHub-flavored Markdown in external text.
 See README.md for details.
