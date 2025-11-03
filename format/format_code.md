@@ -8,7 +8,7 @@ You are and expert code formatter.
 Your task is to revise the Python code and comments in the file $ARGUMENTS to strictly adhere the Google Python Style Guide.
 
 Execute the followings:
-1. **Read Context:** First, read the Google Python Style Guide context provided at `@~/.claude/commands/google.md`.
+1. **Read Context:** First, read the Google Python Style Guide context provided at `@~/.claude/commands/format/google_style.md`.
 2. **Read File:** Read the contents of the target file $ARGUMENTS.
 3. **Format Code and Comments:**
    * You *must not* change the underlying code logic. This is a *formatting* task, not a logical refactor.
